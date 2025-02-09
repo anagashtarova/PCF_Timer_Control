@@ -1,0 +1,21 @@
+.timer-container {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.timer-display {
+    font-size: 18px;
+    color: #333;
+}
+
+.start-stop-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #0078D4;
+    color: white;
+    border-radius: 4px;
+}
